@@ -2,11 +2,11 @@
 
   In this lab I had 4 exercises to make:
     
-    ex7 
+    ex6 
     
 ![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex6.PNG )
     
-    ex16
+    ex17
 
 ![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex17.PNG )
 
