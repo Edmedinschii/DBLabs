@@ -1,6 +1,5 @@
 /*
-Afisati	 numele si prenumele profesorilor, care au predat doar disciplina studentului ci id. 100.
-
+	Afisati	 numele si prenumele profesorilor, care au predat doar disciplina studentului ci id. 100.
 */
 
 select profesori.Id_Profesor, profesori.Nume_Profesor,profesori.Prenume_Profesor
