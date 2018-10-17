@@ -2,7 +2,7 @@
 
   In this lab I had 4 exercises to make:
     
-    ex6 
+    ex7 
     
 ![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex6.PNG )
     
