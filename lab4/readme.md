@@ -3,12 +3,23 @@
   In this lab I had 4 exercises to make:
     
     ex6 
-    ![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex6.PNG "optional title")
-    ![alt text](http://screenshots/ex6.png)
+    
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex6Task.PNG )
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex6.PNG )
     
     ex16
-   
+
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex16Task.PNG )
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex16.PNG )
+
    and two on my choise
    
     ex 26 
+
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex26Task.PNG )
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex26.PNG )
+
     ex 35
+
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex35Task.PNG )
+![alt text](https://github.com/Edmedinschii/DBLabs/blob/master/lab4/screenshots/ex35.PNG )
